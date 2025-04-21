@@ -22,21 +22,7 @@
             }
           },
           {
-            "id": "34988503dd4b9810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Web Components"
-            }
-          },
-          {
-            "id": "765afcad91bd208c",
+            "id": "b88fa47c4cc429e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,12 +194,8 @@
   },
   "active": "f6866aef96f7439c",
   "lastOpenFiles": [
-    "React",
-    "Event Loop.md",
-    "TypeScript/Typescript Roadmap.md",
-    "Без названия.md",
-    "Web Components.md",
     "JavaScript/Работа с WEB API.md",
+    "Web Components.md",
     "JavaScript/JavaScript Roadmap.md",
     "JavaScript/Работа с DOM.md",
     "JavaScript/Типы данных/Примитивные типы данных/String.md",
@@ -238,8 +220,12 @@
     "JavaScript/Переменные/Объявление переменных. Разница между var, let, и const.md",
     "JavaScript/Переменные/Глобальная, функциональная и блочная области.md",
     "Без названия.canvas",
+    "f.md",
     "Libraries",
     "TypeScript",
+    "JavaScript/Функции.md",
+    "Event Loop.md",
+    "JavaScript/Асинхронность в JS.md",
     "Pasted image 20250121153205.png",
     "Pasted image 20250121144505.png",
     "Pasted image 20250121144256.png",
