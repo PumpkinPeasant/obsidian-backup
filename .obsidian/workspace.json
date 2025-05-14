@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React Roadmap.md",
+                "file": "Web Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Roadmap"
+              "title": "Web Components"
             }
           }
         ],
@@ -206,11 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "765afcad91bd208c",
+  "active": "f6866aef96f7439c",
   "lastOpenFiles": [
-    "Web Components.md",
     "React/React Roadmap.md",
     "React",
+    "Web Components.md",
     "Event Loop.md",
     "TypeScript/Typescript Roadmap.md",
     "Без названия.md",
@@ -237,7 +237,6 @@
     "JavaScript/Переменные/Поднятие (Hoisting).md",
     "JavaScript/Переменные/Переменные.md",
     "JavaScript/Переменные/Объявление переменных. Разница между var, let, и const.md",
-    "JavaScript/Переменные/Глобальная, функциональная и блочная области.md",
     "Без названия.canvas",
     "Libraries",
     "TypeScript",
