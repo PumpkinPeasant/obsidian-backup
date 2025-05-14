@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Components.md",
+                "file": "React/React Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Components"
+              "title": "React Roadmap"
             }
           }
         ],
@@ -206,11 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6866aef96f7439c",
+  "active": "765afcad91bd208c",
   "lastOpenFiles": [
+    "Web Components.md",
     "React/React Roadmap.md",
     "React",
-    "Web Components.md",
     "Event Loop.md",
     "TypeScript/Typescript Roadmap.md",
     "Без названия.md",
