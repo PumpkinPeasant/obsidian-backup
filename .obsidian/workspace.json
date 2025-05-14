@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Components.md",
+                "file": "React/React Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Components"
+              "title": "React Roadmap"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Components.md",
+                "file": "React/React Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Web Components"
+              "title": "Структура React Roadmap"
             }
           },
           {
@@ -206,13 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6866aef96f7439c",
+  "active": "765afcad91bd208c",
   "lastOpenFiles": [
+    "Web Components.md",
+    "React/React Roadmap.md",
     "React",
     "Event Loop.md",
     "TypeScript/Typescript Roadmap.md",
     "Без названия.md",
-    "Web Components.md",
     "JavaScript/Работа с WEB API.md",
     "JavaScript/JavaScript Roadmap.md",
     "JavaScript/Работа с DOM.md",
@@ -246,7 +247,6 @@
     "JavaScript/Типы данных",
     "JavaScript/Переменные",
     "HTML",
-    "Backend",
-    "Nuxt"
+    "Backend"
   ]
 }
