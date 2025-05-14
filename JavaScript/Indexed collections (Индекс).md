@@ -1,0 +1,3 @@
+- [[Массивы]]
+- [[Typed Arrays]]
+- [[Методы массивов: map, filter, reduce, find, every, some, sort, splice, slice]]

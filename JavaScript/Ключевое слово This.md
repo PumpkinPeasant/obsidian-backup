@@ -1,0 +1,4 @@
+- [[Function Borrowing]]
+- [[Explicit binding]]
+- [[call(), apply, bind()]]
+- [[Как меняется this в зависимости от способа вызова функции]]
