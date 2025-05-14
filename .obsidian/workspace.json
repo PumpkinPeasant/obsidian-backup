@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Типы данных/Примитивные типы данных/String.md",
+                "file": "Web Components.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура String"
+              "title": "Структура Web Components"
             }
           },
           {
@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 611.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e678b82d2126562e",
+  "active": "f6866aef96f7439c",
   "lastOpenFiles": [
     "React",
     "Event Loop.md",
