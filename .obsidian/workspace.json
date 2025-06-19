@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Типы данных/Примитивные типы данных/String.md",
+                "file": "Очередь задач и микрозадачи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "String"
+              "title": "Очередь задач и микрозадачи"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React Roadmap.md",
+                "file": "JavaScript/JavaScript Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Roadmap"
+              "title": "JavaScript Roadmap"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +102,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 549.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,18 +206,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "765afcad91bd208c",
+  "active": "6407114525a24476",
   "lastOpenFiles": [
-    "Web Components.md",
-    "React/React Roadmap.md",
-    "React",
     "Event Loop.md",
+    "Очередь задач и микрозадачи.md",
+    "JavaScript/Асинхронность в JS.md",
+    "Как работает Event Loop.md",
+    "JavaScript/Переменные/Поднятие (Hoisting).md",
+    "JavaScript/Переменные/Переменные.md",
+    "JavaScript/Переменные/Объявление переменных. Разница между var, let, и const.md",
+    "JavaScript/JavaScript Roadmap.md",
+    "React/JSX/JSX.md",
+    "React/React Roadmap.md",
+    "React/JSX",
+    "JavaScript/Типы данных/Примитивные типы данных/String.md",
+    "Web Components.md",
+    "React",
     "TypeScript/Typescript Roadmap.md",
     "Без названия.md",
     "JavaScript/Работа с WEB API.md",
-    "JavaScript/JavaScript Roadmap.md",
     "JavaScript/Работа с DOM.md",
-    "JavaScript/Типы данных/Примитивные типы данных/String.md",
     "JavaScript/Типы данных/Примитивные типы данных/Number.md",
     "JavaScript/Типы данных/Типы данных.md",
     "Шаблонные строки.md",
@@ -231,12 +239,6 @@
     "HTML/Window.md",
     "VUE/VUE.md",
     "VUE/Components.md",
-    "Nuxt/Nuxt.md",
-    "JavaScript/Объекты.md",
-    "JavaScript/Переменные/Правила наименования переменных.md",
-    "JavaScript/Переменные/Поднятие (Hoisting).md",
-    "JavaScript/Переменные/Переменные.md",
-    "JavaScript/Переменные/Объявление переменных. Разница между var, let, и const.md",
     "Без названия.canvas",
     "Libraries",
     "TypeScript",
@@ -245,7 +247,6 @@
     "Pasted image 20250121144256.png",
     "JavaScript/Типы данных",
     "JavaScript/Переменные",
-    "HTML",
-    "Backend"
+    "HTML"
   ]
 }
