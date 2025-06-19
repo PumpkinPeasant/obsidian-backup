@@ -8,45 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6407114525a24476",
+            "id": "df6c210728d01d2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Типы данных/Примитивные типы данных/String.md",
+                "file": "JavaScript/Переменные/Объявление переменных. Разница между var, let, и const.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "String"
+              "title": "Объявление переменных. Разница между var, let, и const"
             }
           },
           {
-            "id": "34988503dd4b9810",
+            "id": "03ec44ce79d9fe4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Components.md",
+                "file": "Без названия 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Components"
+              "title": "Без названия 1"
             }
           },
           {
-            "id": "765afcad91bd208c",
+            "id": "63e6f7eee94b4961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React Roadmap.md",
+                "file": "Без названия 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Roadmap"
+              "title": "Без названия 2"
             }
           }
         ],
@@ -107,23 +107,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201.5
   },
   "right": {
     "id": "6759bf4fe243cc9c",
     "type": "split",
     "children": [
       {
-        "id": "7c8416166990ab45",
+        "id": "e95afdcce7da3209",
         "type": "tabs",
         "children": [
           {
-            "id": "a7480b9f551373d5",
+            "id": "b8fccb417db7c72b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Переменные/Правила наименования переменных.md",
+                "file": "Без названия 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,53 +133,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Правила наименования переменных"
+              "title": "Обратные ссылки для Без названия 2"
             }
           },
           {
-            "id": "e01c45e1c6ae58a5",
+            "id": "b00143362966f81e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Переменные/Правила наименования переменных.md",
+                "file": "Без названия 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Правила наименования переменных"
+              "title": "Исходящие ссылки из Без названия 2"
             }
           },
           {
-            "id": "a44c90234253f4d7",
+            "id": "29c517807ff9e563",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
             }
           },
           {
-            "id": "0735a912ddd50832",
+            "id": "ac2f61460fa7dc3a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React Roadmap.md",
+                "file": "Без названия 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура React Roadmap"
+              "title": "Структура Без названия 2"
             }
           },
           {
-            "id": "f6866aef96f7439c",
+            "id": "c1fa277bce5721bf",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -193,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,37 +208,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "765afcad91bd208c",
+  "active": "63e6f7eee94b4961",
   "lastOpenFiles": [
+    "Без названия 1.md",
+    "Без названия 2.md",
+    "JavaScript/Переменные/Объявление переменных. Разница между var, let, и const.md",
+    "JavaScript/Переменные/Глобальная, функциональная и блочная области.md",
+    "JavaScript/Переменные/Переменные.md",
+    "JavaScript/Переменные/Поднятие (Hoisting).md",
+    "ТЗ Новый сайт/ТЗ Новый сайт Прима-Информ.md",
+    "ТЗ Новый сайт/Анализ текущего функционала сайта.md",
+    "ТЗ Новый сайт/Основная информация о компании.md",
+    "ТЗ Новый сайт/Приоритетность реализации текущего функционала.md",
+    "Implicit Type Casting.md",
+    "Event Loop.md",
+    "Вопросы Middle Frontend разработчик.md",
+    "Вопросы.md",
+    "Pasted image 20250603170034.png",
+    "JavaScript/Типы данных/Примитивные типы данных/String.md",
+    "ТЗ Новый сайт",
     "Web Components.md",
     "React/React Roadmap.md",
     "React",
-    "Event Loop.md",
     "TypeScript/Typescript Roadmap.md",
     "Без названия.md",
     "JavaScript/Работа с WEB API.md",
     "JavaScript/JavaScript Roadmap.md",
     "JavaScript/Работа с DOM.md",
-    "JavaScript/Типы данных/Примитивные типы данных/String.md",
     "JavaScript/Типы данных/Примитивные типы данных/Number.md",
     "JavaScript/Типы данных/Типы данных.md",
     "Шаблонные строки.md",
     "JavaScript/Типы данных/Примитивные типы данных.md",
     "JavaScript/Типы данных/Без названия/Без названия",
     "JavaScript/Типы данных/Примитивные типы данных",
-    "Type Conversion/Приведение типов, принудительное преобразование типов.md",
-    "Implicit Type Casting.md",
     "Type Conversion",
-    "Frontend Basics/Frontend Basics.md",
-    "HTML/Window.md",
-    "VUE/VUE.md",
-    "VUE/Components.md",
-    "Nuxt/Nuxt.md",
-    "JavaScript/Объекты.md",
-    "JavaScript/Переменные/Правила наименования переменных.md",
-    "JavaScript/Переменные/Поднятие (Hoisting).md",
-    "JavaScript/Переменные/Переменные.md",
-    "JavaScript/Переменные/Объявление переменных. Разница между var, let, и const.md",
     "Без названия.canvas",
     "Libraries",
     "TypeScript",
@@ -245,7 +250,6 @@
     "Pasted image 20250121144256.png",
     "JavaScript/Типы данных",
     "JavaScript/Переменные",
-    "HTML",
-    "Backend"
+    "HTML"
   ]
 }
