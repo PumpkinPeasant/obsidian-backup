@@ -15,10 +15,10 @@ https://roadmap.sh/vue
 	4) Provide / Inject
 	5) Custom Directives
 	6) Plugins
-	7) Watchers и WatchEffect
+	7) [[Watchers и WatchEffect]]
 	8) Slots
 3) Virtual DOM
-4) Реактивность (Proxy, Ref)
+4) [[Реактивность (Proxy, Ref)]]
 5) Vue Router
 	1) Настройка маршрутов
 	2) Динамические маршруты и параметры
@@ -41,12 +41,12 @@ https://roadmap.sh/vue
 	2) fetch
 	3) Async/Await
 8) Оптимизация
-	1) - Lazy-loading компонентов и модулей.
+	1) Lazy-loading компонентов и модулей.
 	2) Использование `keep-alive`.
 	3) Оптимизация больших списков с помощью виртуализации.
 	4) Дебаунсинг и троттлинг событий.
 9) Тестирование
-	1) Vitest
+	1) [[Vitest]]
 10) Инструменты сборки
 	1) Webpack
 	2) Vite
