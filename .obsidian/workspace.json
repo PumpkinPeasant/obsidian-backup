@@ -4,53 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b3946356590058",
+        "id": "9ed144333e6e037e",
         "type": "tabs",
         "children": [
           {
-            "id": "df6c210728d01d2c",
+            "id": "9b1f439b60fabf44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Переменные/Объявление переменных. Разница между var, let, и const.md",
+                "file": "JavaScript/Type Conversion/Приведение типов, принудительное преобразование типов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Объявление переменных. Разница между var, let, и const"
+              "title": "Приведение типов, принудительное преобразование типов"
             }
           },
           {
-            "id": "03ec44ce79d9fe4f",
+            "id": "3b8556b15d1ae386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия 1.md",
+                "file": "JavaScript/Выражения и операторы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 1"
-            }
-          },
-          {
-            "id": "63e6f7eee94b4961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия 2"
+              "title": "Выражения и операторы"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 371.5
   },
   "right": {
     "id": "6759bf4fe243cc9c",
@@ -123,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия 2"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -142,12 +126,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия 2"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -171,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия 2"
+              "title": "Структура"
             }
           },
           {
@@ -199,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -208,48 +191,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63e6f7eee94b4961",
+  "active": "e678b82d2126562e",
   "lastOpenFiles": [
-    "Без названия 1.md",
+    "Алгоритмы/Merge Sort (Сортировка слиянием).md",
+    "JavaScript/Web Components.md",
     "Без названия 2.md",
-    "JavaScript/Переменные/Объявление переменных. Разница между var, let, и const.md",
-    "JavaScript/Переменные/Глобальная, функциональная и блочная области.md",
-    "JavaScript/Переменные/Переменные.md",
-    "JavaScript/Переменные/Поднятие (Hoisting).md",
-    "ТЗ Новый сайт/ТЗ Новый сайт Прима-Информ.md",
-    "ТЗ Новый сайт/Анализ текущего функционала сайта.md",
-    "ТЗ Новый сайт/Основная информация о компании.md",
-    "ТЗ Новый сайт/Приоритетность реализации текущего функционала.md",
-    "Implicit Type Casting.md",
-    "Event Loop.md",
-    "Вопросы Middle Frontend разработчик.md",
-    "Вопросы.md",
+    "Без названия 1.canvas",
+    "Frontend Basics/JWT-аутентификация - Access и Refresh токены.md",
     "Pasted image 20250603170034.png",
-    "JavaScript/Типы данных/Примитивные типы данных/String.md",
-    "ТЗ Новый сайт",
-    "Web Components.md",
-    "React/React Roadmap.md",
-    "React",
-    "TypeScript/Typescript Roadmap.md",
-    "Без названия.md",
-    "JavaScript/Работа с WEB API.md",
-    "JavaScript/JavaScript Roadmap.md",
-    "JavaScript/Работа с DOM.md",
-    "JavaScript/Типы данных/Примитивные типы данных/Number.md",
-    "JavaScript/Типы данных/Типы данных.md",
-    "Шаблонные строки.md",
-    "JavaScript/Типы данных/Примитивные типы данных.md",
-    "JavaScript/Типы данных/Без названия/Без названия",
-    "JavaScript/Типы данных/Примитивные типы данных",
-    "Type Conversion",
-    "Без названия.canvas",
-    "Libraries",
-    "TypeScript",
     "Pasted image 20250121153205.png",
-    "Pasted image 20250121144505.png",
     "Pasted image 20250121144256.png",
-    "JavaScript/Типы данных",
-    "JavaScript/Переменные",
-    "HTML"
+    "Pasted image 20250121144505.png",
+    "Собесы/Без названия 1.md",
+    "Без названия 1.base",
+    "Без названия.base",
+    "Собесы/Вопросы.md",
+    "Собесы/Xway Темы.md",
+    "JavaScript/Выражения и операторы.md",
+    "JavaScript/Работа с DOM.md",
+    "JavaScript/Асинхронность в JS/Event Loop.md",
+    "JavaScript/Асинхронность в JS/Асинхронность в JS.md",
+    "JavaScript/Асинхронность в JS/Promise.md",
+    "JavaScript/Асинхронность в JS/Promise.all, Promise.any.md",
+    "JavaScript/Асинхронность в JS",
+    "JavaScript/Без названия.md",
+    "JavaScript/this/Ключевое слово This.md",
+    "JavaScript/this/call(), apply, bind().md",
+    "JavaScript/Функции/Контекст выполнения (Execution Context).md",
+    "Собесы/Вопросы Middle Frontend разработчик.md",
+    "JavaScript/Implicit Type Casting.md",
+    "2025-08-25.md",
+    "Без названия 4.base",
+    "Без названия 3.base",
+    "Без названия 2.base",
+    "Без названия.canvas",
+    "Без названия.md",
+    "Без названия 3.md",
+    "JavaScript/this",
+    "JavaScript/Функции/Функции.md",
+    "JavaScript/JavaScript Roadmap.md",
+    "JavaScript/Функции/Замыкания (Closures).md",
+    "JavaScript/Функции",
+    "Собесы",
+    "Алгоритмы"
   ]
 }
