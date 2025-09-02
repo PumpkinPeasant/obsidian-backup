@@ -2,5 +2,5 @@
 - [[Promise]]
 	- [[Promise.all, Promise.any]]
 	- [[Создание промисов, методы then, catch, и finally]]
-- [[async/await]]
+- [[async await]]
 - [[Event Loop]]

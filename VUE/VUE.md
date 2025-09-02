@@ -3,7 +3,7 @@ https://roadmap.sh/vue
 1) [[Переменные]]
 	1) [[Components]]
 	2) Templates
-	3) Directives (`v-bind`, `v-model`, `v-if`, `v-for`, `v-show`, `v-on`, `v-slot`)
+	3) [[Директивы Directives]] (`v-bind`, `v-model`, `v-if`, `v-for`, `v-show`, `v-on`, `v-slot`)
 	4) App Configuration
 	5) Options API и Composition API. Их отличие
 	6) Хуки жизненного цикла
@@ -58,3 +58,5 @@ https://roadmap.sh/vue
 12) Архитектура и общие принципы разработки
 	1) Паттерны проектирования, применимые к Vue
 	2) Разработка и поддержка масштабируемых приложений
+13) Вопросы
+	1) [[Способы передачи данных между компонентами]] 

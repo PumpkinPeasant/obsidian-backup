@@ -1,3 +1,29 @@
+
+- **`Promise.all([p1, p2, ...])`**
+    - Ждёт выполнения **всех промисов**.
+    - Если хотя бы один завершится с ошибкой → весь `Promise.all` перейдёт в `rejected`.
+    - Возвращает массив результатов в том же порядке, что и исходный массив.
+    
+    `Promise.all([fetchUser(), fetchPosts()])   .then(([user, posts]) => console.log(user, posts))   .catch(err => console.error("Ошибка:", err));`
+    
+- **`Promise.allSettled([p1, p2, ...])`**
+    - Ждёт выполнения всех промисов.
+    - Никогда не падает — возвращает массив объектов `{status: "fulfilled" | "rejected", value | reason}`.
+    
+    `Promise.allSettled([fetchUser(), fetchBroken()])   .then(results => console.log(results));`
+    
+- **`Promise.race([p1, p2, ...])`**
+    - Возвращает результат **первого завершившегося промиса** (успех или ошибка).
+    
+    `Promise.race([fetchFast(), fetchSlow()])   .then(res => console.log("Первый:", res))   .catch(err => console.error("Ошибка:", err));`
+    
+- **`Promise.any([p1, p2, ...])`** (ES2021)
+    - Возвращает **первый успешно выполненный промис**.
+    - Если все завершились с ошибкой → выбросит **AggregateError**.
+    
+    `Promise.any([fetchFail(), fetchUser()])   .then(res => console.log("Успех:", res))   .catch(err => console.error("Все упали:", err));`
+
+
 ### Promise
 
 ```ts
@@ -89,4 +115,3 @@ Promise.any(orderedDeliveries)
   .then(result => console.log(result))
   .catch(() => console.log("Вы остались голодными"));
 ```
-
