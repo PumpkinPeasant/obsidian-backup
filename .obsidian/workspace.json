@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собесы/Identity Blitz/Identity Blitz Темы.md",
+                "file": "TypeScript/Utility Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Identity Blitz Темы"
+              "title": "Utility Types"
             }
           }
         ]
@@ -182,8 +182,27 @@
   },
   "active": "63cc4d27e264e945",
   "lastOpenFiles": [
-    "JavaScript/Поддержка IE11.md",
     "Собесы/Identity Blitz/Identity Blitz Темы.md",
+    "Собесы/Identity Blitz/Identity Blitz После собеса.md",
+    "Собесы/MUSbooking/MUSBooking. Вопросы после собеса.md",
+    "WEB технологии, браузер, API/Скрипты async vs defer.md",
+    "Собесы/MUSbooking",
+    "WEB технологии, браузер, API/Как браузер отрисовывает страницу.md",
+    "Собесы/XWAY/XWAY После собеса.md",
+    "Собесы/Вопросы",
+    "WEB технологии, браузер, API/Кэширование (Cache-Control, ETag, Service Worker).md",
+    "WEB технологии, браузер, API/Загрузка ресурсов. DOM, CSSOM, JS, event loop.md",
+    "WEB технологии, браузер, API/HTTP/Разница 301 и 302.md",
+    "WEB технологии, браузер, API/HTTP/Жизненный цикл HTTP-запроса.md",
+    "Git/Работа с ветками (Git Flow).md",
+    "TypeScript/Utility Types.md",
+    "Тестирование/Vitest/Vitest.md",
+    "TypeScript/Type и Union.md",
+    "TypeScript/Union Types и Intersection Types.md",
+    "TypeScript/Enum и as const.md",
+    "Git/Merge vs Rebase.md",
+    "TypeScript/Для чего нужно использовать TS.md",
+    "JavaScript/Поддержка IE11.md",
     "WEB технологии, браузер, API/Атаки и уязвимости/CSRF (Cross-Site Request Forgery).md",
     "WEB технологии, браузер, API/Атаки и уязвимости/Как защититься от XSS и CSRF.md",
     "WEB технологии, браузер, API/Атаки и уязвимости/XSS-атаки (Cross-Site Scripting).md",
@@ -192,31 +211,12 @@
     "Vite/Подключение PostCSS и SCSS.md",
     "Vite/Настройка алиасов.md",
     "Vite/Vite vs Webpack.md",
-    "Vite/Подключение плагинов.md",
-    "Vite/Конфигурация vite.config.ts.md",
-    "Vite/Vite.md",
-    "Использование для сессий/аутентификации.md",
     "Vite",
-    "WEB технологии, браузер, API/Cookie/SameSite (Strict, Lax, None).md",
     "WEB технологии, браузер, API/Атаки и уязвимости",
-    "WEB технологии, браузер, API/Cookie/Secure.md",
-    "WEB технологии, браузер, API/Cookie/HttpOnly.md",
-    "WEB технологии, браузер, API/Cookie/Использование для сессий и аутентификации.md",
     "Использование для сессий",
-    "WEB технологии, браузер, API/Cookie/Ограничения (размер, количество на домен).md",
-    "WEB технологии, браузер, API/Cookie/Session vs Persistent.md",
-    "WEB технологии, браузер, API/HTTP/Разница 301 и 302.md",
     "SEO",
     "WEB технологии, браузер, API/HTTP",
-    "WEB технологии, браузер, API/Скрипты async vs defer.md",
-    "WEB технологии, браузер, API/Same-Origin Policy (SOP).md",
-    "WEB технологии, браузер, API/Cookie/Cookie.md",
     "WEB технологии, браузер, API/Cookie",
-    "WEB технологии, браузер, API/Без названия.md",
-    "WEB технологии, браузер, API/Аутентификация/CORS (Cross-Origin Resource Sharing).md",
-    "WEB технологии, браузер, API/HTTP/Жизненный цикл HTTP-запроса.md",
-    "Тестирование/Vitest",
-    "Тестирование",
-    "Собесы/Разное"
+    "Тестирование/Vitest"
   ]
 }
