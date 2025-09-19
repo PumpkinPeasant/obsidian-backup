@@ -11,14 +11,15 @@
             "id": "63cc4d27e264e945",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "TypeScript/Utility Types.md",
-                "mode": "source",
-                "source": false
+                "aFile": "WEB технологии, браузер, API/Как браузер отрисовывает страницу.md",
+                "bFile": "WEB технологии, браузер, API/Как браузер отрисовывает страницу.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Utility Types"
+              "icon": "diff",
+              "title": "Diff: Как браузер отрисовывает страницу"
             }
           }
         ]
@@ -182,6 +183,7 @@
   },
   "active": "63cc4d27e264e945",
   "lastOpenFiles": [
+    "TypeScript/Utility Types.md",
     "Собесы/Identity Blitz/Identity Blitz Темы.md",
     "Собесы/Identity Blitz/Identity Blitz После собеса.md",
     "Собесы/MUSbooking/MUSBooking. Вопросы после собеса.md",
@@ -195,7 +197,6 @@
     "WEB технологии, браузер, API/HTTP/Разница 301 и 302.md",
     "WEB технологии, браузер, API/HTTP/Жизненный цикл HTTP-запроса.md",
     "Git/Работа с ветками (Git Flow).md",
-    "TypeScript/Utility Types.md",
     "Тестирование/Vitest/Vitest.md",
     "TypeScript/Type и Union.md",
     "TypeScript/Union Types и Intersection Types.md",
