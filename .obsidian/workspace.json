@@ -1,42 +1,54 @@
 {
   "main": {
-    "id": "fef8e480796cdb89",
+    "id": "9c3e250f804e5af6",
     "type": "split",
     "children": [
       {
-        "id": "3c9f75d5455f8a4c",
+        "id": "a2ce70178b5ee8b6",
         "type": "tabs",
         "children": [
           {
-            "id": "63cc4d27e264e945",
+            "id": "7ab17f71f4d1f996",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "WEB технологии, браузер, API/Как браузер отрисовывает страницу.md",
-                "bFile": "WEB технологии, браузер, API/Как браузер отрисовывает страницу.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "JavaScript/JavaScript Roadmap.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Как браузер отрисовывает страницу"
+              "icon": "lucide-file",
+              "title": "JavaScript Roadmap"
+            }
+          },
+          {
+            "id": "0fa185dc7f2ae38b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.14"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "09e16850532320fc",
+    "id": "5c21ea98af7e474c",
     "type": "split",
     "children": [
       {
-        "id": "32b49f0c4c86a742",
+        "id": "d83a0b47adb6ea37",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7ff6890a83e38f",
+            "id": "e678b82d2126562e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,12 +61,12 @@
             }
           },
           {
-            "id": "976a3144d8ecdf32",
+            "id": "0852103c64d263ab",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "javasc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +78,7 @@
             }
           },
           {
-            "id": "c3fdab8fa6bca063",
+            "id": "a17c50c4d0f4fdd0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,20 +94,20 @@
     "width": 300
   },
   "right": {
-    "id": "29a5699bf36ddd20",
+    "id": "6759bf4fe243cc9c",
     "type": "split",
     "children": [
       {
-        "id": "390148110d3ca7ec",
+        "id": "7c8416166990ab45",
         "type": "tabs",
         "children": [
           {
-            "id": "df4afb02f0f1c1f0",
+            "id": "a7480b9f551373d5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Семантические теги.md",
+                "file": "JavaScript/Переменные/Правила наименования переменных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,55 +117,53 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Семантические теги"
+              "title": "Обратные ссылки для Правила наименования переменных"
             }
           },
           {
-            "id": "cd13c7f50cbe3fae",
+            "id": "e01c45e1c6ae58a5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Семантические теги.md",
+                "file": "JavaScript/Переменные/Правила наименования переменных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Семантические теги"
+              "title": "Исходящие ссылки из Правила наименования переменных"
             }
           },
           {
-            "id": "b98653a2966d6edb",
+            "id": "a44c90234253f4d7",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Теги"
             }
           },
           {
-            "id": "cce9793bcd8dc293",
+            "id": "0735a912ddd50832",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Семантические теги.md",
+                "file": "JavaScript/JavaScript Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Семантические теги"
+              "title": "Структура JavaScript Roadmap"
             }
           },
           {
-            "id": "f2f301ca78a7c642",
+            "id": "f6866aef96f7439c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -167,57 +177,62 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 503.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63cc4d27e264e945",
+  "active": "0fa185dc7f2ae38b",
   "lastOpenFiles": [
-    "TypeScript/Utility Types.md",
+    "JavaScript/Типы данных/Типы данных.md",
+    "JavaScript/JavaScript Roadmap.md",
+    "JavaScript/Объекты.md",
+    "JavaScript/Переменные/Переменные.md",
+    "JavaScript/Функции/Функции.md",
+    "JavaScript/ES6+ особенности.md",
+    "JavaScript/this/Ключевое слово This.md",
+    "Собесы/Разное/Без названия 1.md",
+    "Собесы/Частые вопросы/JS/Что такое Event Loop.md",
+    "VUE/Watchers и WatchEffect.md",
+    "Без названия.canvas",
+    "Без названия.base",
+    "2025-09-19.md",
+    "JavaScript/Очередь задач и микрозадачи.md",
+    "JavaScript/Асинхронность в JS/Event Loop.md",
+    "JavaScript/Как работает Event Loop.md",
+    "JavaScript/Асинхронность в JS/Асинхронность в JS.md",
+    "WEB технологии, браузер, API/Загрузка ресурсов. DOM, CSSOM, JS, event loop.md",
     "Собесы/Identity Blitz/Identity Blitz Темы.md",
-    "Собесы/Identity Blitz/Identity Blitz После собеса.md",
     "Собесы/MUSbooking/MUSBooking. Вопросы после собеса.md",
-    "WEB технологии, браузер, API/Скрипты async vs defer.md",
+    "Собесы/XWAY/XWAY После собеса.md",
+    "Собесы/Разное/Вопросы.md",
+    "Собесы/Разное/Вопросы Middle Frontend разработчик.md",
+    "Собесы/Identity Blitz/Identity Blitz После собеса.md",
+    "Собесы/Частые вопросы/HTML",
+    "Собесы/Частые вопросы/TS",
+    "Собесы/Частые вопросы/JS",
+    "Собесы/Частые вопросы",
     "Собесы/MUSbooking",
     "WEB технологии, браузер, API/Как браузер отрисовывает страницу.md",
-    "Собесы/XWAY/XWAY После собеса.md",
-    "Собесы/Вопросы",
-    "WEB технологии, браузер, API/Кэширование (Cache-Control, ETag, Service Worker).md",
-    "WEB технологии, браузер, API/Загрузка ресурсов. DOM, CSSOM, JS, event loop.md",
-    "WEB технологии, браузер, API/HTTP/Разница 301 и 302.md",
-    "WEB технологии, браузер, API/HTTP/Жизненный цикл HTTP-запроса.md",
-    "Git/Работа с ветками (Git Flow).md",
-    "Тестирование/Vitest/Vitest.md",
-    "TypeScript/Type и Union.md",
-    "TypeScript/Union Types и Intersection Types.md",
-    "TypeScript/Enum и as const.md",
-    "Git/Merge vs Rebase.md",
-    "TypeScript/Для чего нужно использовать TS.md",
-    "JavaScript/Поддержка IE11.md",
-    "WEB технологии, браузер, API/Атаки и уязвимости/CSRF (Cross-Site Request Forgery).md",
+    "WEB технологии, браузер, API/Cookie/Session vs Persistent.md",
     "WEB технологии, браузер, API/Атаки и уязвимости/Как защититься от XSS и CSRF.md",
-    "WEB технологии, браузер, API/Атаки и уязвимости/XSS-атаки (Cross-Site Scripting).md",
-    "Vite/Создание собственного плагина.md",
-    "WEB технологии, браузер, API/Аутентификация",
-    "Vite/Подключение PostCSS и SCSS.md",
-    "Vite/Настройка алиасов.md",
-    "Vite/Vite vs Webpack.md",
+    "WEB технологии, браузер, API/Same-Origin Policy (SOP).md",
     "Vite",
-    "WEB технологии, браузер, API/Атаки и уязвимости",
-    "Использование для сессий",
-    "SEO",
-    "WEB технологии, браузер, API/HTTP",
-    "WEB технологии, браузер, API/Cookie",
-    "Тестирование/Vitest"
+    "Тестирование/Vitest",
+    "Тестирование",
+    "Собесы/Разное",
+    "Pasted image 20250826125818.png",
+    "Pasted image 20250121153205.png",
+    "Pasted image 20250121144505.png",
+    "Pasted image 20250121144256.png"
   ]
 }
