@@ -4,37 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ce70178b5ee8b6",
+        "id": "73eb5fce492bad59",
         "type": "tabs",
         "children": [
           {
-            "id": "7ab17f71f4d1f996",
+            "id": "0b57fdcec1fa29ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript Roadmap.md",
+                "file": "VUE/Реактивность (Proxy, Ref).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript Roadmap"
+              "title": "Реактивность (Proxy, Ref)"
             }
           },
           {
-            "id": "0fa185dc7f2ae38b",
+            "id": "9a833e5743852090",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Proxy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.14"
+              "icon": "lucide-file",
+              "title": "Proxy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "javasc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,11 +192,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fa185dc7f2ae38b",
+  "active": "0b57fdcec1fa29ed",
   "lastOpenFiles": [
+    "Proxy.md",
+    "VUE/Реактивность (Proxy, Ref).md",
+    "Без названия 2.base",
+    "JavaScript/Объекты/Object.defineProperty.md",
     "JavaScript/Типы данных/Типы данных.md",
+    "JavaScript/Объекты/Объекты.md",
+    "JavaScript/Типы данных/Примитивные типы данных.md",
+    "VUE/VUE.md",
+    "Архитектура/Что такое АРХИТЕКТУРА.md",
+    "Архитектура/FSD - Feature Sliced Design.md",
     "JavaScript/JavaScript Roadmap.md",
-    "JavaScript/Объекты.md",
+    "JavaScript/Объекты",
+    "Без названия 1.base",
+    "Без названия.base",
+    "Архитектура",
     "JavaScript/Переменные/Переменные.md",
     "JavaScript/Функции/Функции.md",
     "JavaScript/ES6+ особенности.md",
@@ -204,7 +217,6 @@
     "Собесы/Частые вопросы/JS/Что такое Event Loop.md",
     "VUE/Watchers и WatchEffect.md",
     "Без названия.canvas",
-    "Без названия.base",
     "2025-09-19.md",
     "JavaScript/Очередь задач и микрозадачи.md",
     "JavaScript/Асинхронность в JS/Event Loop.md",
@@ -213,23 +225,11 @@
     "WEB технологии, браузер, API/Загрузка ресурсов. DOM, CSSOM, JS, event loop.md",
     "Собесы/Identity Blitz/Identity Blitz Темы.md",
     "Собесы/MUSbooking/MUSBooking. Вопросы после собеса.md",
-    "Собесы/XWAY/XWAY После собеса.md",
-    "Собесы/Разное/Вопросы.md",
-    "Собесы/Разное/Вопросы Middle Frontend разработчик.md",
-    "Собесы/Identity Blitz/Identity Blitz После собеса.md",
     "Собесы/Частые вопросы/HTML",
     "Собесы/Частые вопросы/TS",
     "Собесы/Частые вопросы/JS",
     "Собесы/Частые вопросы",
     "Собесы/MUSbooking",
-    "WEB технологии, браузер, API/Как браузер отрисовывает страницу.md",
-    "WEB технологии, браузер, API/Cookie/Session vs Persistent.md",
-    "WEB технологии, браузер, API/Атаки и уязвимости/Как защититься от XSS и CSRF.md",
-    "WEB технологии, браузер, API/Same-Origin Policy (SOP).md",
-    "Vite",
-    "Тестирование/Vitest",
-    "Тестирование",
-    "Собесы/Разное",
     "Pasted image 20250826125818.png",
     "Pasted image 20250121153205.png",
     "Pasted image 20250121144505.png",
