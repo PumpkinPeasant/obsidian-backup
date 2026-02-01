@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy.md",
+                "file": "JavaScript/Proxy.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,7 +194,7 @@
   },
   "active": "0b57fdcec1fa29ed",
   "lastOpenFiles": [
-    "Proxy.md",
+    "JavaScript/Proxy.md",
     "VUE/Реактивность (Proxy, Ref).md",
     "Без названия 2.base",
     "JavaScript/Объекты/Object.defineProperty.md",
