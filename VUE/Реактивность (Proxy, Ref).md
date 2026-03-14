@@ -152,3 +152,4 @@ const proxy = new Proxy(count, {
 })
 ```
 
+## Объявление реактивности Vue 3
